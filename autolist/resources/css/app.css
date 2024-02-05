@@ -1,0 +1,5 @@
+#app {width:100%; overflow:hidden;}
+.openpopup {text-decoration: underline;}
+.openpopup:hover {text-decoration: none;}
+span.red {color:red; padding-right:.4em;}
+.form-group {margin:1em 0;}
